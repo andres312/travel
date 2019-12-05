@@ -70,3 +70,14 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  assets:
+    - assets/mariana.jpg
+    - assets/img/mariana_grande.jpg
+    - assets/img/gustavo.jpg
+    - assets/img/gustavo_grande.jpg
+    - assets/img/andres.jpg
+    - assets/img/andres_grande.jpg
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: fonts/Lato-Regular.ttf
