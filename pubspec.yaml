@@ -77,6 +77,10 @@ flutter:
     - assets/img/gustavo_grande.jpg
     - assets/img/andres.jpg
     - assets/img/andres_grande.jpg
+    - assets/img/auto.jpg
+    - assets/img/capitolio.jpg
+    - assets/img/floridita.jpg
+    - assets/img/puente.jpg
   fonts:
     - family: Lato
       fonts:
